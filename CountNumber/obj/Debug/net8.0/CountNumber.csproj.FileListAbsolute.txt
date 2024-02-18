@@ -1,0 +1,15 @@
+F:\TestOnline\CountNumber\bin\Debug\net8.0\CountNumber.exe
+F:\TestOnline\CountNumber\bin\Debug\net8.0\CountNumber.deps.json
+F:\TestOnline\CountNumber\bin\Debug\net8.0\CountNumber.runtimeconfig.json
+F:\TestOnline\CountNumber\bin\Debug\net8.0\CountNumber.dll
+F:\TestOnline\CountNumber\bin\Debug\net8.0\CountNumber.pdb
+F:\TestOnline\CountNumber\obj\Debug\net8.0\CountNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\TestOnline\CountNumber\obj\Debug\net8.0\CountNumber.AssemblyInfoInputs.cache
+F:\TestOnline\CountNumber\obj\Debug\net8.0\CountNumber.AssemblyInfo.cs
+F:\TestOnline\CountNumber\obj\Debug\net8.0\CountNumber.csproj.CoreCompileInputs.cache
+F:\TestOnline\CountNumber\obj\Debug\net8.0\CountNumber.sourcelink.json
+F:\TestOnline\CountNumber\obj\Debug\net8.0\CountNumber.dll
+F:\TestOnline\CountNumber\obj\Debug\net8.0\refint\CountNumber.dll
+F:\TestOnline\CountNumber\obj\Debug\net8.0\CountNumber.pdb
+F:\TestOnline\CountNumber\obj\Debug\net8.0\CountNumber.genruntimeconfig.cache
+F:\TestOnline\CountNumber\obj\Debug\net8.0\ref\CountNumber.dll
